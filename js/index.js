@@ -17,4 +17,4 @@ ScrollReveal().reveal('.media-info li', { delay: 500, origin: 'left', interval: 
 //Set timeout preloader
 setTimeout (function() {
   $ ('.preloader-bg').fadeToggle();
-}, 2000);
+}, 1000);

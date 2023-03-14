@@ -170,4 +170,8 @@ section  {
 }
 .b-w {
   filter: saturate(0);
+  border-radius: 10px;
+}
+.teamokaro {
+  border-radius: 10px;
 }
